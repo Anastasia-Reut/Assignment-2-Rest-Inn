@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"title": "Apartments",
+		"img": "/property_type_apartment.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Resorts",
+		"img": "/property_type_resort.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Condos",
+		"img": "/property_type_condos.jpeg"
+	},
+	{
+		"id": 4,
+		"title": "Hotels",
+		"img": "/property_type_hotels.jpeg"
+	},
+	{
+		"id": 5,
+		"title": "Motels",
+		"img": "/property_type_motels.jpeg"
+	},
+	{
+		"id": 6,
+		"title": "B&B",
+		"img": "/property_type_b&b.jpeg"
+	}
+]
